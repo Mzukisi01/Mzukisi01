@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mzukisi01</h1>
-<h3 align="center">A passionate developer from South Africa</h3>
+<h3 align="center">👋 Hi, I'm Mzukisi Soboyisa a passionate Computer Sciences and Economics graduate diving deep into the world of data analysis, econometrics, and coding.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzukisi01&label=Profile%20views&color=0e75b6&style=flat" alt="mzukisi01" /> </p>
 
