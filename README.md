@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mzukisi01</h1>
+<h1 align="center">Hi 👋, I am Mzukisi</h1>
 <h3 align="center">👋 Hi, I'm Mzukisi Soboyisa a passionate Computer Sciences and Economics graduate diving deep into the world of data analysis, econometrics, and coding.
 </h3>
 
