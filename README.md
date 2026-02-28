@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Mzukisi</h1>
 <h3 align="center">👋 Hi, I'm Mzukisi Soboyisa a passionate Computer Sciences and Economics graduate diving deep into the world of data analysis, econometrics, and coding.
+  I have a Bachelor's degree in Computer Sciences and Economics, and an Honours degree in Economics both obtained from the North-West University
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzukisi01&label=Profile%20views&color=0e75b6&style=flat" alt="mzukisi01" /> </p>
